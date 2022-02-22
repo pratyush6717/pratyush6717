@@ -28,7 +28,7 @@
 <br>
 
 
-## 👀 My Competitive Programming Profiles
+## 👀 My Active Competitive Programming Profiles
 
 <p align="center">
 	<a href="https://leetcode.com/pratyushsingh6710/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
