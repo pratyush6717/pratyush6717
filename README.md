@@ -12,12 +12,11 @@
 
 
 ## :sassy_man:  About me
-- :school: I am studying `Information Technology` at Heritage Institute of Technology Kolkata
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a Problem solver mainly at `Leetcode`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1H334SFxgcEH-c6UTxhjosPj7uhmgdH3w/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+- 🕴️ Works at Aptiv in c++
+- :school: B.tech from Heritage Institute of Technology Kolkata
+- :student: I’m currently learning: `C++`.
+- :thinking: I’m currently open for: `Full-time job`.
+- :nerd_face:  `Problem solver`
 
 <br>
 
@@ -32,7 +31,6 @@
 
 <p align="center">
 	<a href="https://leetcode.com/pratyushsingh6710/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codechef.com/users/pratyush6717"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
