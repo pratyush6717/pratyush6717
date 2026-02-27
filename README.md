@@ -36,7 +36,7 @@
 
 ---
 
-### 🔹 Aptiv (Oct 2022 – 2025)  
+### 🔹 Aptiv (Oct 2022 – Feb 2025)  
 **Software Engineer | ADAS Validation (C++)**
 
 - Worked on Software-in-the-Loop (SIL) validation for ADAS systems
