@@ -18,7 +18,7 @@
 
 ## 🏢 Professional Experience
 
-### 🔹 Rahi Systems (2025 – Present)  
+### 🔹 Rahi Systems (Feb 2025 – Present)  
 **Software Engineer | Loan Management System**
 
 - Designed scalable backend components in Java
